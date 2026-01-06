@@ -1,0 +1,7 @@
+{
+  "name": "Aina AI - 虚拟少女对话",
+  "description": "与 20 岁的数字少女 Aina 进行实时语音互动。她精通中日英等多国语言，拥有甜美的声音和真实的动态表现。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
